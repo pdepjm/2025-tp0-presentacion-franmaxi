@@ -6,3 +6,5 @@ Mi numero de legajo es el siguiente: **213.798-7**
 
 ## **Foto personal**
 ![IMG-20250221-WA0009](https://github.com/user-attachments/assets/911c4e12-c053-4bfd-9336-377927c881a2)
+
+Haciendo una modificacion
